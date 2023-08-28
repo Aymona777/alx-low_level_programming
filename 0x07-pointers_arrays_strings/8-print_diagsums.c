@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include "main.h"
 #include <stdio.h>
 /**
@@ -25,3 +26,6 @@ void print_diagsums(int *a, int size)
 
 	printf("%d, %d\n", sum1, sum2);
 }
+=======
+
+>>>>>>> a1fd132e51580a795c5e43985ad47bcffb55cf4c
